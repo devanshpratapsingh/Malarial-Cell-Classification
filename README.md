@@ -11,7 +11,7 @@ Malaria is a mosquito-borne infectious disease that affects humans and other ani
 Malaria parasites can be identified by examining under the microscope a drop of the patient's blood, spread out as a “blood smear” on a microscope slide. Prior to examination, the specimen is stained (most often with the Giemsa stain) to give the parasites a distinctive appearance.
 <br>
 <h2>Uninfected and Parasitized cells:</h2>
-<img align="center" width="500" height="400" src="https://github.com/devanshpratapsingh/Malarial-Cell-Classification/blob/main/images/img1.jpg">
+<img align="center" width="400" height="250" src="https://github.com/devanshpratapsingh/Malarial-Cell-Classification/blob/main/images/img1.jpg">
 
 ## Installation and Quick Start
 To use the repo, please follow the guidelines below:
