@@ -117,3 +117,5 @@ l2 = ax2.legend(loc="best")
 
 #Save the model
 model.save('malaria_cnn.h5')
+
+#Devansh Pratap Singh
